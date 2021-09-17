@@ -1,6 +1,8 @@
 package com.ubosque.DAO;
 import java.sql.*;
 
+// prueba GIT
+
 public class Connection {
 	String database="tienda";
 	String user="root";

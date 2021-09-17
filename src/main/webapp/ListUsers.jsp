@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="http://code.jquery.com/ui/1.11.4/themes/flick/jquery-ui.css">
     <link rel="stylesheet" href="css/table.css">
     
-	<title>Tienda Generica</title>
+	<title>Tienda Generica prueba git</title>
 	
 </head>
 <body>
